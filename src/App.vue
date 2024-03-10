@@ -1,8 +1,10 @@
-<script setup lang="ts"></script>
+<script setup lang="ts">
+import Composition from "../src/components/base/响应式基础/index.vue";
+</script>
 
 <template>
   <div>
-    <h1>Hello World</h1>
+    <Composition />
   </div>
 </template>
 
